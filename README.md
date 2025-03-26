@@ -1,5 +1,6 @@
 # Sky Voyager - Three.js Flight Simulator
 ![示例](preview.png)
+
 一个基于 Three.js 的简单飞行模拟器演示项目。在这个项目中，你可以控制一架低多边形风格的飞机在3D空间中飞行，体验基础的飞行物理效果。
 
 
@@ -40,7 +41,7 @@ In pure three.js, without downloading any assets or textures, create a flight si
 1. 克隆仓库：
 ```bash
 git clone https://github.com/quint11/sky-voyager-threejs.git
-
+```
 2. 进入项目目录：
 ```bash
 cd sky-voyager-threejs
